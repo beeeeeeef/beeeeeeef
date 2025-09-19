@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 关于我🤔
+- 普通
+- 热情
+- 随和
+
+## 🌱想要快快长大
