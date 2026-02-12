@@ -14,13 +14,17 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.brex.land/api?username=beeeeeeeef&show_icons=true&theme=radical&rank_icon=github&display_format=svg" alt="Stats" width="400" />
+      <img src="https://github-readme-stats.brex.land/api?username=beeeeeeeef&show_icons=true&theme=radical" alt="Stats" width="400" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.brex.land/api/top-langs/?username=beeeeeeeef&layout=compact&theme=radical&hide_progress=false" alt="Languages" width="350" />
+      <img src="https://github-readme-stats.brex.land/api/top-langs/?username=beeeeeeeef&layout=compact&theme=radical" alt="Languages" width="350" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
