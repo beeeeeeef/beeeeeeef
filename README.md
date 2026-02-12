@@ -23,6 +23,7 @@
 </table>
 
 <p align="center">
+  <p align="center">
   <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
