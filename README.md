@@ -12,16 +12,16 @@
 ### 📊 My GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/beeeeeee/beeeeeee/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Language Stats" width="400" />
+      <img src="https://raw.githubusercontent.com/beeeeeee/beeeeeee/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Language Stats" width="400" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/main/profile-summary-card-output/radical/3-stats.svg" alt="General Stats" width="400" />
+      <img src="https://raw.githubusercontent.com/beeeeeee/beeeeeee/main/profile-summary-card-output/radical/3-stats.svg" alt="General Stats" width="400" />
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/beeeeeee/beeeeeee/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 </div>
