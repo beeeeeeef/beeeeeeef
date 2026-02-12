@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+yvmumu.;CS+Student+at+NCU;Focusing+on+Algo-Coach" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+yvmumu.;Focusing+on+Algo-Coach;CS+at+NCU" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Project-Algo--Coach-61dafb?style=for-the-badge&logo=react" />
@@ -11,21 +11,20 @@
 
 ### 📊 My GitHub Contributions
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+</p>
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.brex.land/api?username=beeeeeeeef&show_icons=true&theme=radical" alt="Stats" width="400" />
+      <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Language Stats" width="400" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.brex.land/api/top-langs/?username=beeeeeeeef&layout=compact&theme=radical" alt="Languages" width="350" />
+      <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/main/profile-summary-card-output/radical/3-stats.svg" alt="General Stats" width="400" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 ---
 
@@ -42,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/beeeeeeeef/beeeeeeeef/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/beeeeeeeef/beeeeeeeef/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 </div>
