@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+yvmumu.;Focusing+on+Algo-Coach;CS+at+NCU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+yvmumu.;CS+at+NCU" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Project-Algo--Coach-61dafb?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Language-Go%20%7C%20C%2B%2B%20%7C%20Python-00ADD8?style=for-the-badge&logo=go" />
 </p>
 
